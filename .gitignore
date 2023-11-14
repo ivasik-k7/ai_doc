@@ -1,0 +1,15 @@
+# VENV related
+!venv/*
+!myenv/*
+
+# Artifacts related
+!artifacts/*
+!examples/*
+
+# Environment related
+*/*.env
+
+# Include files inside the 'artifacts' folder
+!artifacts/*
+
+
